@@ -1,0 +1,17 @@
+# Local/editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.vscode/
+.idea/
+
+# Personal dream reports and private working notes
+private/
+notes-private.md
+*.dream-private.md
+
+# No generated research dumps or downloaded copyrighted source PDFs
+research-dumps/
+downloads/
+*.pdf
